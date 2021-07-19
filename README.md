@@ -45,21 +45,33 @@ quantum mechanics<br/>
 
 We look at lower levels; all are important but we want to start at the highest level to get you thinking right.
 
-# Functional Programming
+# Functional Programming &#x2611;
 
-[ ] Read [Section 1.1: The Elements of Programming](http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1)
+[&#x2611;] Watch [MIT 6.001 SICP - Lecture 1A: Overview and Introduction to Lisp](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp)
 
-[ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
+[&#x2611;] Read [Section 1.1: The Elements of Programming](http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1) 
 
-[ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
+[&#x2611;] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
+
+[&#x2611;] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
+
+[&#x2611;] Solve Week 1 Lab
+
+[&#x2611;] Solve Week 1 Homework
 
 # Higher-order procedures
 
-[ ] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures](http://sarabander.github.io/sicp/html/1_002e3.xhtml#g_t1_002e3)
+[&#x2611;] Watch [MIT 6.001 SICP - Lecture 2A: Higher-order Procedures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/2a-higher-order-procedures)
 
-[ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
+[&#x2611;] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures](http://sarabander.github.io/sicp/html/1_002e3.xhtml#g_t1_002e3)
 
-[ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures 2](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
+[&#x2611;] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
+
+[&#x2611;] Watch [Computer Science 61A - Lecture 4: higher-order procedures 2](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
+
+[&#x2611;] Solve Week 2 Lab
+
+[&#x2611;] Solve Week 2 Homework
 
 # Recursion and iteration
 
