@@ -73,15 +73,19 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [&#x2611;] Solve Week 2 Homework
 
-# Recursion and iteration
+# Recursion and iteration &#x2611;
 
 [&#x2611;] Watch [MIT 6.001 SICP - Lecture 1B: Procedures and Processes; Substitution Model](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
 
-[ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](http://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2)
+[&#x2611;] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](http://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2)
 
-[ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
+[&#x2611;] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
 
-[ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
+[&#x2611;] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
+
+[&#x2611;] Solve Week 3 Lab
+
+[&#x2611;] Solve Week 3 Homework
 
 # Data abstraction, sequences
 
