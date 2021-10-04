@@ -75,7 +75,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Recursion and iteration &#x2611;
 
-[&#x2611;] Watch [MIT 6.001 SICP - Lecture 1B: Procedures and Processes; Substitution Model](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
+[&#x2611;] Watch [MIT 6.001 SICP - Lecture 1B: Procedures and Processes; Substitution Model](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1b-procedures-and-processes-substitution-model)
 
 [&#x2611;] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](http://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2)
 
@@ -89,11 +89,13 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Data abstraction, sequences
 
-[ ] Read [Section 2.2.1: Representing Sequences](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1)
+[&#x2611;] Watch [MIT 6.001 SICP - Lecture 2B: Compound Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/2b-compound-data)
+
+[ ] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
 
-[ ] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
+[ ] Read [Section 2.2.1: Representing Sequences](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 10: sequences](https://archive.org/details/ucberkeley_webcast__qGeRWplPgc)
 
