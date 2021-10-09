@@ -91,7 +91,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [&#x2611;] Watch [MIT 6.001 SICP - Lecture 2B: Compound Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/2b-compound-data)
 
-[ ] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
+[&#x2611;] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
 
