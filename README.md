@@ -93,7 +93,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [&#x2611;] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
 
-[ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
+[&#x2611;] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
 
 [ ] Read [Section 2.2.1: Representing Sequences](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1)
 
