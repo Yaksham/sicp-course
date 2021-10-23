@@ -87,7 +87,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [&#x2611;] Solve Week 3 Homework
 
-# Data abstraction, sequences
+# Data abstraction, sequences &#x2611;
 
 [&#x2611;] Watch [MIT 6.001 SICP - Lecture 2B: Compound Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/2b-compound-data)
 
