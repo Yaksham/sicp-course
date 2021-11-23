@@ -107,7 +107,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Hierarchical data/Scheme interpreter
 
-[ ] Read [Section 2.2.2: Hierarchical Structures](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e2)
+[&#x2611;] Read [Section 2.2.2: Hierarchical Structures](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e2)
 
 [ ] Read [Section 2.2.3: Sequences as Conventional Interfaces](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e3)
 
