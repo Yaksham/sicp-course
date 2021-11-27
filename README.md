@@ -113,7 +113,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [&#x2611;] Watch [Computer Science 61A - Lecture 12: hierarchical data](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
 
-[ ] Read [Section 2.3.1: Quotation](http://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e1)
+[&#x2611;] Read [Section 2.3.1: Quotation](http://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e1)
 
 [ ] Read [Section 2.3.3 Example: Representing Sets](http://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e3)
 
